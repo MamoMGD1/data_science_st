@@ -1,7 +1,11 @@
 # 📊 Statistics for Data Science - Group Project
 
-## 🔗 Project Notebook (Google Colab)
-[Open in Colab](https://colab.research.google.com/drive/1O20dwk9D8k74C0M0YKSdkztsJL2mFq7L?usp=sharing)
+## 🔗 Project Notebooks
+
+- 👥 **Group Version (edit access)**: Only group members have access to it, click [Here](https://colab.research.google.com/drive/1O20dwk9D8k74C0M0YKSdkztsJL2mFq7L?usp=sharing)
+- 🌍 **Public Version (read only)**: Everyone has viewing and running access, click [Here](https://colab.research.google.com/drive/1pKkVYRAkZ748ztpxtU-wpfINqlnyCYXl)
+
+📌 *Note: The public version is read-only. If you want to play around with it, click “File > Save a copy in Drive” to work on your own copy.*
 
 ## 📁 Dataset
 [main.csv](./main.csv)
