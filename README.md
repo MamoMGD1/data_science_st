@@ -1,7 +1,7 @@
 # 📊 Statistics for Data Science - Group Project
 
 ## 🔗 Project Notebook (Google Colab)
-[Open in Colab](https://colab.research.google.com/drive/1O20dwk9D8k74C0M0YKSdkztsJL2mFq7L?usp=sharing))
+[Open in Colab](https://colab.research.google.com/drive/1O20dwk9D8k74C0M0YKSdkztsJL2mFq7L?usp=sharing)
 
 ## 📁 Dataset
 [main.csv](./main.csv)
