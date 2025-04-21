@@ -72,16 +72,6 @@ They are intended solely to demonstrate our understanding of the course material
 
 ---
 
-## 📎 Files in This Repository
-
-| File | Description |
-|------|-------------|
-| `main.csv` | The raw dataset downloaded from Kaggle |
-| `README.md` | This project overview and documentation |
-| `project.ipynb` | The Colab-based Jupyter notebook (editable or public versions linked above) |
-
----
-
 ## 🧠 Skills Practiced in This Project
 
 - Real-world data exploration and handling
